@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=vuejs/vue&type=Date)](https://star-history.com/#vuejs/vue&Date)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <!--
 **mken999/mken999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
